@@ -1,4 +1,4 @@
-﻿# personal_portfolio
+﻿# Personal Portfolio
 Welcome to my personal portfolio website! This project showcases my skills, experience, and works as a Fullstack web developer, UI designer, and mobile developer.
 
 🚀 Features
