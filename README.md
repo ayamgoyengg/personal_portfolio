@@ -19,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/ayamgoyengg/personal-portfolio.git
 Navigate to Project Directory
 
 bash
